@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11kaze&label=Profile%20views&color=0e75b6&style=flat" alt="11kaze" /> </p>
 
-- 🔭 I’m currently working on **Dash project for Diwazzo**
+- 🔭 I’m currently working as **Sr. Software Engineer at Kenstel Network Limited**
 
-- 🌱 I’m currently learning **BigQuery and Sparks**
+- 🌱 I’m currently working on a project to **Update Naukri.com profile using selenium ( Automatically Everyday)**
 
 - 📫 How to reach me **pawan.k17@stu.srmuniversity.ac.in**
 
