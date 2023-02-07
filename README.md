@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on a project to **Update Naukri.com profile using selenium ( Automatically Everyday)**
 
-- 📫 How to reach me **pawan.k17@stu.srmuniversity.ac.in**
+- 📫 How to reach me **pawan88821z@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
