@@ -7,7 +7,9 @@
 
 - 🌱  Worked as **Software Engineer 2 at Kenstel Network Limited**
 
-- 📫 How to reach me **pawan88821z@gmail.com**
+- 📫 Connect with me **pawan88821z@gmail.com**
+
+- My blogging site **[visit here](http://wind.pythonanywhere.com/)**
 
 
 <h3 align="left">Languages and Tools:</h3>
