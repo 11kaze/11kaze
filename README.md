@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pawan a.k.a Kaze</h1>
 <h3 align="center">A passionate Python Programmer</h3>
-
+<p align="center"><img src='https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06' alt='leetcode'>
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
+<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="blogger"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11kaze&label=Profile%20views&color=0e75b6&style=flat" alt="11kaze" /> </p>
 
 - 🔭 Looking for new opportunities
@@ -18,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=11kaze&show_icons=true&locale=en&layout=compact" alt="11kaze" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=11kaze&show_icons=true&locale=en" alt="11kaze" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/pawan88821z)
