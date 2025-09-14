@@ -8,8 +8,9 @@
 
 - 🔭 Looking for new opportunities
 
-- 💻 Software Engineer – EverestIMS Pvt Ltd (Current)
-- 🌱 Software Engineer 2 – Kenstel Network Limited (Past)
+- 🎯Career Path
+  - └──  Software Engineer – EverestIMS Pvt Ltd (Current) 
+  - └──  Software Engineer 2 – Kenstel Network Limited
 
 - 📫 Connect with me **pawan88821z@gmail.com**
 
